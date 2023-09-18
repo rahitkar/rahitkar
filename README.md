@@ -9,8 +9,14 @@
 - 💬 I would love to talk about **TDD, Testing, CI/CD, Microservices, Docker, Elasticsearch, Agile methodologies, coding best practices**
   
 - 📫 Reach me at kar.rahit1998@gmail.com
+
+- 🙋🏼‍♂️[Linkedin](https://www.linkedin.com/in/rahit-kar-a52598174/)
+
+- 👨🏼‍💻 [Leetcode](https://leetcode.com/Rahit1998/)
+
+- 👨🏼 [hackerrank](https://www.hackerrank.com/kar_rahit1998)
   
-- ⚡ Fun fact about me I eat bugs (code bugs 🐛) for breakfast, lunch and dinner
+- ⚡ Fun fact about me I eat bugs (code bugs 🐛) for breakfast, lunch and dinner 😜
 
   
 <!--
